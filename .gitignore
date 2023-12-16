@@ -1,0 +1,7 @@
+detr_parameters.pth
+frames_v2/
+bdd100k_videos_train_00/
+detr/
+mot_labels.csv
+mot_labels.parquet
+testlist
